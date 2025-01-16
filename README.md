@@ -1,5 +1,5 @@
 # 💫 About Me:
- am currently working on building a robust e-boutique platform called Capital Royal Wears, which includes features like user authentication, product management, and a seamless shopping experience. I am also refining my skills in Java programming by tackling advanced exercises, such as implementing CRUD operations with Spring Boot, creating reusable classes with inheritance, and managing data efficiently with streams and collections.<br>
+ Am currently working on building a robust e-boutique platform called Capital Royal Wears, which includes features like user authentication, product management, and a seamless shopping experience. I am also refining my skills in Java programming by tackling advanced exercises, such as implementing CRUD operations with Spring Boot, creating reusable classes with inheritance, and managing data efficiently with streams and collections.<br>
 
 
 ## 🌐 Socials:
