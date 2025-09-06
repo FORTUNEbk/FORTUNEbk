@@ -1,5 +1,8 @@
-# 💫 About Me:
- Am currently working on building a robust e-boutique platform called Capital Royal Wears, which includes features like user authentication, product management, and a seamless shopping experience. I am also refining my skills in Java programming by tackling advanced exercises, such as implementing CRUD operations with Spring Boot, creating reusable classes with inheritance, and managing data efficiently with streams and collections.<br>
+#👋 Hi, my name is Kanyangi Fortune
+
+I’m passionate about software development and currently working on building a robust e-boutique platform called Capital Royal Wears, which features user authentication, product management, and a seamless shopping experience.
+
+I’m also advancing my skills in Java programming by practicing with projects such as implementing CRUD operations using Spring Boot, creating reusable classes with inheritance, and managing data efficiently through streams and collections.
 
 
 ## 🌐 Socials:
