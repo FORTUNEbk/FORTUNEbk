@@ -1,4 +1,4 @@
-#👋 Hi, my name is Kanyangi Fortune
+# 👋 Hi, my name is Kanyangi Fortune
 
 I’m passionate about software development and currently working on building a robust e-boutique platform called Capital Royal Wears, which features user authentication, product management, and a seamless shopping experience.
 
